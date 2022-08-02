@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Coordinates Remover",
+        "description": "Need to hide your coordinates because you're live streaming? Then this resource pack is going to do just that. Created by §bPrimeMinus",
+        "uuid": "d20460fa-3984-4f17-bbd1-26174f8555dc",
+        "version": [ 1, 0, 0 ]
+        //"min_engine_version": [ 1, 0, 0 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "db1122fe-10b2-4ef0-874b-46aab729bbb0",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
